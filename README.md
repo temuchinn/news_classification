@@ -1,1 +1,1 @@
-# news_classification
+# Классификация новостей методами NLP
